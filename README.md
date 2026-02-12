@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>TechFix Computer Services</title>
+    <title>Marlo Computer Services</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- Bootstrap CDN -->
@@ -102,7 +102,7 @@
 
 <!-- Footer -->
 <footer class="bg-dark text-white text-center p-3">
-  <p class="mb-0">© 2026 TechFix Computer Services. All Rights Reserved.</p>
+  <p class="mb-0">© 2026 Marlo Computer Services. All Rights Reserved.</p>
 </footer>
 
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
